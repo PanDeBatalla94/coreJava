@@ -1,10 +1,10 @@
-package driver;
+package org.fundacionjala.core.driver.driver;
 
 import org.apache.log4j.Logger;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.remote.DesiredCapabilities;
 import org.openqa.selenium.remote.RemoteWebDriver;
-import util.PropertiesManager;
+import org.fundacionjala.core.driver.util.PropertiesManager;
 
 import java.net.MalformedURLException;
 import java.net.URL;

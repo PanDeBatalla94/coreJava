@@ -1,4 +1,4 @@
-package driver;
+package org.fundacionjala.core.driver.driver;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
@@ -9,7 +9,7 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 public class FirefoxBrowser implements Browser {
 
     /**
-     * Get the Firefox driver.
+     * Get the Firefox org.fundacionjala.core.driver.
      *
      * @return the FirefoxDriver.
      */

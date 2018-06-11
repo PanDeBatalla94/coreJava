@@ -1,4 +1,4 @@
-package driver;
+package org.fundacionjala.core.driver.driver;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
@@ -8,7 +8,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
  */
 public class ChromeBrowser implements Browser {
     /**
-     * Get the Chrome driver.
+     * Get the Chrome org.fundacionjala.core.driver.
      *
      * @return the ChromeDriver.
      */
