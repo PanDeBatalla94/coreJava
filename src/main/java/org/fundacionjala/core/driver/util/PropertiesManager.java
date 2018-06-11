@@ -1,4 +1,4 @@
-package util;
+package org.fundacionjala.core.driver.util;
 
 import org.apache.log4j.Logger;
 

@@ -1,4 +1,4 @@
-package driver;
+package org.fundacionjala.core.driver.driver;
 
 
 import org.openqa.selenium.WebDriver;
@@ -7,7 +7,7 @@ import java.util.EnumMap;
 import java.util.Map;
 
 /**
- * Class created in order to recognize the driver type.
+ * Class created in order to recognize the org.fundacionjala.core.driver type.
  */
 public final class DriverFactory {
 

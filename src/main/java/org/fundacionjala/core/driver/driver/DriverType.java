@@ -1,7 +1,7 @@
-package driver;
+package org.fundacionjala.core.driver.driver;
 
 /**
- * Enum for the driver types.
+ * Enum for the org.fundacionjala.core.driver types.
  */
 public enum DriverType {
     CHROME,
